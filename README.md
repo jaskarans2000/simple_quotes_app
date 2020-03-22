@@ -1,16 +1,9 @@
-# simple_quotes_app
+# simple quotes app
 
-A new Flutter application.
+A very simple Flutter application depicting the use of stateful widget and showing quotes.
 
-## Getting Started
+## Screenshot
+![Screenshot_2020-03-22-15-31-49-618_com example simple_flutter_app](https://user-images.githubusercontent.com/36985639/77246976-8dc77a80-6c52-11ea-93f7-036c45367456.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2020-03-22-15-31-55-400_com example simple_flutter_app](https://user-images.githubusercontent.com/36985639/77246981-9cae2d00-6c52-11ea-9861-900bf3e2d40a.jpg)
